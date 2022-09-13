@@ -2,7 +2,7 @@
 
 ## Live Versions
 
-- [Front-End](https://protected-ocean-24892.herokuapp.com/)
+- [Front-End](https://comforting-wisp-50f219.netlify.app/)
 - [Back-end](https://gentle-springs-58920.herokuapp.com/)
 
 ![Screenshot](./src/images/Screenshot1.PNG)
