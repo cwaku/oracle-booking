@@ -41,7 +41,7 @@
 
 .slider {
   display: flex !important;
-  justify-content: start;
+  justify-content: flex-start;
   padding-left: 1rem;
 }
 
@@ -131,7 +131,7 @@
 
   .slider {
     display: flex !important;
-    justify-content: start;
+    justify-content: flex-start;
   }
 
   .slide {
