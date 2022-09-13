@@ -1,13 +1,13 @@
 # Oracle booking service
 
-![Screenshot](./src/images/Screenshot1.PNG)
-![Screenshot](./src/images/Screenshot2.PNG)
-![Screenshot](./src/images/Screenshot3.PNG)
-
 ## Live Versions
 
 - [Front-End](https://protected-ocean-24892.herokuapp.com/)
 - [Back-end](https://gentle-springs-58920.herokuapp.com/)
+
+![Screenshot](./src/images/Screenshot1.PNG)
+![Screenshot](./src/images/Screenshot2.PNG)
+![Screenshot](./src/images/Screenshot3.PNG)
 
 ## Link to the backend
 
