@@ -29,6 +29,7 @@ const AddCars = () => {
       await addNewCar(newCar).unwrap();
       setFormSuccess(true);
     } catch (error) {
+      // eslint-disable-next-line no-console
       console.log('Failed to add car', error);
     }
   };

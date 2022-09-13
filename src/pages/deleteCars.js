@@ -10,6 +10,7 @@ const CarsList = () => {
     try {
       await deleteCar({ id }).unwrap();
     } catch (error) {
+      // eslint-disable-next-line no-console
       console.log('Failed to delete car', error);
     }
   };

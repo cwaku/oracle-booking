@@ -8,7 +8,6 @@ import { selectAllCars } from '../../features/cars/carsSlice';
 const CarsCarousel = () => {
   const carsState = useSelector(selectAllCars);
 
-  console.log(carsState);
   return (
     <div className="">
       <Carousel

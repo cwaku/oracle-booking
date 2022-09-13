@@ -19,7 +19,6 @@ const Footer = () => {
   };
 
   useEffect(() => {
-    console.log(userState);
   });
 
   const logout = () => {

@@ -1,3 +1,4 @@
+/* eslint-disable no-console */
 import { useParams } from 'react-router-dom';
 import { useSelector } from 'react-redux';
 import { selectAllCars } from '../../features/cars/carsSlice';
